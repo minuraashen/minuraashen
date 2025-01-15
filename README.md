@@ -1,5 +1,6 @@
-## Hi there 👋 I'm Minura Ashen Samaramanna.
--I am currently studying Electronics and Telecommunication Engineering as an undergraduate at University of Moratuwa, Sri Lanka.
+## Hi there👋, I'm Minura Ashen Samaramanna.
+- I am currently studying Electronics and Telecommunication Engineering as an undergraduate at University of Moratuwa, Sri Lanka.
+  
 
 <!--
 **minuraashen/minuraashen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
