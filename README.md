@@ -1,7 +1,14 @@
 ## Hi there👋, I'm Minura Ashen Samaramanna.
 - I am currently studying Electronics and Telecommunication Engineering as an undergraduate at University of Moratuwa, Sri Lanka.
 - My passion lies in combining theoretical knowledge with hands-on projects, especially in the fields of mathematics, analog electronics, embedded systems, computer vision and mechine learning.
-  
+
+  <br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="[www.linkedin.com/in/jeewantha-sadaruwan-53922a261](https://www.linkedin.com/in/minura-ashen-344143289/)" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9ed2f151b8f0704d6eebeaa562fed659c04e0307/Images/linkedin.svg"
+      alt="xxxxxxx" height="30" width="50" /></a>
+</p>
 
 <!--
 **minuraashen/minuraashen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
