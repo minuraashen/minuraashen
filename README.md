@@ -1,5 +1,6 @@
 ## Hi there👋, I'm Minura Ashen Samaramanna.
 - I am currently studying Electronics and Telecommunication Engineering as an undergraduate at University of Moratuwa, Sri Lanka.
+- My passion lies in combining theoretical knowledge with hands-on projects, especially in the fields of mathematics, analog electronics, embedded systems, computer vision and mechine learning.
   
 
 <!--
