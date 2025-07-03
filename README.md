@@ -20,7 +20,6 @@
 
 ---
 
-### 🛠️ Languages & Tools
 
 ### 🛠️ Languages & Tools
 
@@ -48,10 +47,10 @@
 ---
 
 ### 🚀 Projects I'm Working On
-*(Add links once ready)*  
-- **Autonomous Mobile Robot Controller** – High-power embedded control for AMRs.  
-- **GPS Tracking Device** – Custom PCB-based GPS+GSM tracker with ultra-low power mode.  
-- **CV + Embedded Integration** – Combining image processing with microcontroller-based systems.
+
+- 🔌 **Autonomous Mobile Robot Controller** – High-power embedded controller for AMRs powered by dual LiPo batteries, handling high-current loads with safety-focused PCB design.
+- 🎚️ **Analog Five-Band Audio Equalizer** – Real-time audio frequency shaping using op-amps and passive components, tailored for signal fidelity and analog precision.
+- 🐭 **Micromouse Robot (STM32)** – Maze-solving robot developed with **register-level STM32 programming**, implementing precise motor control, real-time sensor data handling, and efficient maze-solving algorithms.
 
 ---
 
