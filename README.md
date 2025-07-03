@@ -48,6 +48,12 @@
 
 ---
 
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+
 ### 📈 GitHub Stats (Optional)
 
 <p align="left">
