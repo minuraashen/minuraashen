@@ -11,19 +11,12 @@
 
 ### 🔗 Connect with Me
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/minuraashen" target="_blank">
-    <img src="https://img.shields.io/badge/-Minura%20Ashen-blue?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/minura.ashen.samaramanna" target="_blank">
-    <img src="https://img.shields.io/badge/-Minura%20Ashen-1877F2?style=flat&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/_minura_ashen_" target="_blank">
-    <img src="https://img.shields.io/badge/-@_minura_ashen_-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/minuraashensama1" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/>
-  </a>
+<a href="https://linkedin.com/in/minura ashen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minura ashen" height="30" width="40" /></a>
+<a href="https://fb.com/minura ashen samaramanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minura ashen samaramanna" height="30" width="40" /></a>
+<a href="https://instagram.com/_minura_ashen_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_minura_ashen_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/minuraashensama1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="minuraashensama1" height="30" width="40" /></a>
 </p>
 
 ---
