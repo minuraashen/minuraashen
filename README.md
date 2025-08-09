@@ -3,9 +3,10 @@
 🎓 I'm an undergraduate in **Electronics and Telecommunication Engineering** at the **University of Moratuwa**, Sri Lanka.
 
 🔬 I’m passionate about **blending theoretical knowledge with hands-on experience**, especially in:
-- Mathematics & Analog Electronics
+- Mathematics
+- Computer Vision & Machine Learning 
 - Embedded Systems & Hardware Design
-- Computer Vision & Machine Learning
+- Analog Electronics
 
 ---
 
