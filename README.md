@@ -25,19 +25,26 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://nodered.org/about/resources/media/node-red-icon.png" alt="Node-RED" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Matlab-Dark.svg" alt="MATLAB" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TensorFlow-Dark.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ScikitLearn-Dark.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/logo.png" alt="OpenCV" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenCV-Dark.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="Mongodb" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="React" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" alt="C" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" alt="C++" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git" width="40" height="40"/>
+  <img src="https://nodered.org/about/resources/media/node-red-icon.png" alt="Node-RED" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LaTeX-Dark.svg" alt="Latex" width="40" height="40"/>
 </p>
 
 
