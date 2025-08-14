@@ -61,6 +61,8 @@
 
 ### 🚀 Projects I'm Working On
 
+- 🏃 **Fitness Tracker using Machine Learning** – Used **IMU sensor data** with **time-series analysis** to build an activity recognition system.
+- 🛒 **Online Shopping Store (MERN Stack)** – Full-stack e-commerce application with product/category management, secure authentication, and responsive UI, integrating MongoDB, Express.js, React, and Node.js.
 - 🔌 **Autonomous Mobile Robot Controller** – High-power embedded controller for AMRs powered by dual LiPo batteries, handling high-current loads with safety-focused PCB design.
 - 🎚️ **Analog Five-Band Audio Equalizer** – Real-time audio frequency shaping using op-amps and passive components, tailored for signal fidelity and analog precision.
 - 🐭 **Micromouse Robot (STM32)** – Maze-solving robot developed with **register-level STM32 programming**, implementing precise motor control, real-time sensor data handling, and efficient maze-solving algorithms.
