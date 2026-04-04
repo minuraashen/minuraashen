@@ -4,20 +4,30 @@
 
 🔬 I’m passionate about **blending theoretical knowledge with hands-on experience**, especially in:
 - Mathematics
-- Computer Vision & Machine Learning 
+- Computer Vision & Machine Learning
+- Software Engineering
 - Embedded Systems & Hardware Design
 - Analog Electronics
+  
+### 💻 About Me
+
+- 🚀 **Intern at WSO2:** Currently developing a semantic code search tool for the Micro Integrator Copilot and contributing to VS Code extensions.
+- 🔬 **Research Interests:** Computer Vision, Machine Learning, Vision-Language Models (VLM), Software Architecture, and Autonomous Navigation.
+- 🤖 **Current Research:** Actively working on a research paper titled *"Hybrid Geometric–Generative Navigation: Self-Supervised Latent World Modeling with Diffusion-Based Planning for Autonomous Robots."*
+- ✍️ **Technical Writer:** I regularly share insights on software engineering, AI, and development tools on [Medium](https://medium.com/@minuraashensamaramanna).
 
 ---
 
 ### 🔗 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/minura-ashen-344143289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minura ashen" height="30" width="40" /></a>
-<a href="https://fb.com/minura ashen samaramanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minura ashen samaramanna" height="30" width="40" /></a>
-<a href="https://instagram.com/_minura_ashen_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_minura_ashen_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/minuraashensama1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="minuraashensama1" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/minura-ashen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://github.com/minuraashen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://instagram.com/_minura_ashen_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/minuraashensama1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
+
+🌐 **Explore my full body of work on my [Personal Portfolio Website](https://minuraashen.vercel.app).**
 
 ---
 
@@ -51,21 +61,24 @@
 
 ---
 
-### 📈 GitHub Stats (Optional)
+### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=minuraashen&show_icons=true&theme=default" alt="Minura's GitHub stats" />
+  <img src="./profile/stats.svg" alt="Minura's GitHub stats" />
 </p>
 
 ---
 
-### 🚀 Projects I'm Working On
+### 🚀 Projects & Research
 
-- 🏃 **Fitness Tracker using Machine Learning** – Used **IMU sensor data** with **time-series analysis** to build an activity recognition system.
-- 🛒 **Online Shopping Store (MERN Stack)** – Full-stack e-commerce application with product/category management, secure authentication, and responsive UI, integrating MongoDB, Express.js, React, and Node.js.
+- 🔎 **Semantic Search Tool (WSO2)** – Developing an intelligent code search feature for the Micro Integrator Copilot using advanced NLP techniques.
+- 🚗 **Hybrid Generative Navigation Research** – Researching self-supervised latent world modeling with diffusion-based planning for autonomous robots.
+- 📊 **Salesforce to Google Sheets Exporter** – Automated data pipeline project exporting Salesforce leads directly into Google Sheets for streamlined analytics.
+- 🏃 **Fitness Tracker using Machine Learning** – Utilized IMU sensor data with time-series analysis to build an activity recognition system.
+- 🛒 **Online Shopping Store (MERN Stack)** – Full-stack e-commerce application with product/category management, secure authentication, and a responsive UI.
 - 🔌 **Autonomous Mobile Robot Controller** – High-power embedded controller for AMRs powered by dual LiPo batteries, handling high-current loads with safety-focused PCB design.
+- 🐭 **Micromouse Robot (STM32)** – Maze-solving robot developed with register-level STM32 programming, implementing precise motor control, real-time sensor data handling, and efficient pathfinding.
 - 🎚️ **Analog Five-Band Audio Equalizer** – Real-time audio frequency shaping using op-amps and passive components, tailored for signal fidelity and analog precision.
-- 🐭 **Micromouse Robot (STM32)** – Maze-solving robot developed with **register-level STM32 programming**, implementing precise motor control, real-time sensor data handling, and efficient maze-solving algorithms.
 
 ---
 
