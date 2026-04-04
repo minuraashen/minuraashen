@@ -1,0 +1,33 @@
+name: GitHub Readme Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # This runs the update every night at midnight
+  workflow_dispatch: # This adds a button so you can run it manually anytime
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # This uses the Secret you created in Step 2
+          token: ${{ secrets.GH_PAT }} 
+
+      - name: Generate Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          # Add your username and customization here
+          options: username=minuraashen&show_icons=true&theme=default
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/*.svg
+          # This saves the image into your repo; if nothing changed, it won't error out
+          git commit -m "Update GitHub stats" || exit 0
+          git push
