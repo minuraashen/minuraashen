@@ -4,7 +4,8 @@
 
 🔬 I’m passionate about **blending theoretical knowledge with hands-on experience**, especially in:
 - Mathematics
-- Computer Vision & Machine Learning
+- Computer Vision
+- Machine Learning & Artificial Intelligence
 - Software Engineering
 - Embedded Systems & Hardware Design
 - Analog Electronics
@@ -75,6 +76,7 @@
 - 🚗 **Hybrid Generative Navigation Research** – Researching self-supervised latent world modeling with diffusion-based planning for autonomous robots.
 - 📊 **Salesforce to Google Sheets Exporter** – Automated data pipeline project exporting Salesforce leads directly into Google Sheets for streamlined analytics.
 - 🏃 **Fitness Tracker using Machine Learning** – Utilized IMU sensor data with time-series analysis to build an activity recognition system.
+- 🤖 **Kapruka AI Shopping Agent** – Developing a conversational shopping experience powered by the Kapruka MCP, Sri Lanka's largest e-commerce platform. Built for the Kapruka Agent Challenge 2026.
 - 🛒 **Online Shopping Store (MERN Stack)** – Full-stack e-commerce application with product/category management, secure authentication, and a responsive UI.
 - 🔌 **Autonomous Mobile Robot Controller** – High-power embedded controller for AMRs powered by dual LiPo batteries, handling high-current loads with safety-focused PCB design.
 - 🐭 **Micromouse Robot (STM32)** – Maze-solving robot developed with register-level STM32 programming, implementing precise motor control, real-time sensor data handling, and efficient pathfinding.
