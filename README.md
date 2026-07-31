@@ -65,7 +65,7 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="./profile/stats.svg" alt="Minura's GitHub stats" />
+  <img src="https://raw.githubusercontent.com/minuraashen/minuraashen/main/profile/stats.svg" alt="Minura's GitHub stats" />
 </p>
 
 ---
