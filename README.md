@@ -14,7 +14,7 @@
 
 - 🚀 **Intern at WSO2:** Currently developing a semantic code search tool for the Micro Integrator Copilot and contributing to VS Code extensions.
 - 🔬 **Research Interests:** Computer Vision, Machine Learning, Deep Learning, Vision-Language Models (VLM), Software Architecture, and Autonomous Navigation.
-- 🤖 **Current Research:** Actively working on a research on *Frequency-to-Spatial Distillation for Degradation Adaptive Mobile Image Restoration*
+- 🤖 **Current Research:** Actively working on a research on *Degradation Adaptive Mobile Image Restoration*
 - ✍️ **Technical Writer:** I regularly share insights on software engineering, AI, and development tools on [Medium](https://medium.com/@minuraashensamaramanna).
 
 ---
